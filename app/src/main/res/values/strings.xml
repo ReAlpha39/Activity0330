@@ -2,6 +2,12 @@
     <string name="app_name">Activity0330</string>
     <string name="btnD">Daftar</string>
     <string name="reg">Registrasi</string>
+    <string name="login">LOGIN</string>
+    <string name="usern">Username</string>
+    <string name="usernH">Masukkan Username</string>
+    <string name="pass">Password</string>
+    <string name="passH">Masukkan Password</string>
+    <string name="loginB">SIGN-IN</string>
     <string name="un">Nama</string>
     <string name="almt">Alamat</string>
     <string name="telp">No. Telepon</string>
