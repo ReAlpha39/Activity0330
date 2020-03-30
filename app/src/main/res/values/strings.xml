@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Activity0330</string>
+    <string name="btnD">Daftar</string>
+    <string name="reg">Registrasi</string>
+    <string name="un">Nama</string>
+    <string name="almt">Alamat</string>
+    <string name="telp">No. Telepon</string>
+    <string name="unHint">Masukkan Nama</string>
+    <string name="almtHint">Masukkan Alamat</string>
+    <string name="telpHint">Masukkan No. Telepon</string>
 </resources>
